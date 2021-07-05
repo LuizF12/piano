@@ -1,0 +1,27 @@
+.piano {
+				display: inline-flex;
+}
+
+.branco {
+				background-color:white ;
+				border: 1px solid black;
+				width: 70px;
+				height: 200px;
+}
+
+.preto {
+				width: 40px;
+				height: 140px;
+				background-color: black;
+				margin-left: -20px;
+				margin-right: -20px;
+				z-index:3;
+}
+
+.branco:hover{
+				background-color: #dfdfdf;
+}
+
+.preto:hover{
+				background-color: #202020;
+}

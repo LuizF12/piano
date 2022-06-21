@@ -18,10 +18,10 @@
 				z-index:3;
 }
 
-.branco:hover{
+.branco:active{
 				background-color: #dfdfdf;
 }
 
-.preto:hover{
+.preto:active{
 				background-color: #202020;
 }
